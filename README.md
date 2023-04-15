@@ -9,7 +9,7 @@ This repo contains my journey of learning Python via the wonderful exercism plat
 
 ## How to run:
 
-Use `main.py` to run any func from any module
+Use `main.py` to run call any function, from any module.
 
 ```python
 from basics.lasagna import *
